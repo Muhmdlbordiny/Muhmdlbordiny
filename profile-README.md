@@ -15,9 +15,9 @@
 ```javascript
 const mohamed = {
   name:        "Mohamed Elbordiny",
-  role:        "Mobile & Web Developer",
+  role:        "FullStack.Net Developer",
   education:   "Computer Engineering Graduate",
-  location:    "Egypt 🇪🇬",
+  location:    "Saudi,Riyadh",
   currentWork: "Building cross-platform apps with React Native",
   learning:    ["Advanced React Patterns", "CI/CD", "Cloud Deployment"],
   funFact:     "I debug with console.log and I'm proud of it 😄"
